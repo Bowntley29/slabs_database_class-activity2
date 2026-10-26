@@ -3,9 +3,9 @@
 # Enterprise Information Systems Mapping 
 
 1. Transaction Processing Systems: To daily operational transactions that need to be recorded reliably is the sales being recorded, number of returns, the barcodes need to be scanned, paymets made and stock.
-2. Management Information Systems and Decision Support Systems: The store management uses MIS to get weekly reports such as the best selling products, the number of total sales and staff perfomance. For DSS in helping to decide whether to run a promotion during a sudden drop in sales help in showing profit that has been amde or predicts it and helps in making store promotions.
-3. Executive Support Systems: The CEO needs reports about the market trends, competitor price graphs, monthly profits and long-term forecastsssss.
-4. Knowlegde Work Systems and Office Automation System: For the Knowledge Work System the Computer Aided Design System is needed for the store design for creating new product strategies. Office Automation System will use applications such as microsoft temas for meetings and microsoft outlook for emails, microsoft word for docuemts and excel for admin work.
+2. Management Information Systems and Decision Support Systems: The store management uses MIS to get weekly reports such as the best selling products, the number of total sales and staff perfomance. For DSS in helping to decide whether to run a promotion during a sudden drop in sales help in showing profit that has been made or predicts it and helps in making store promotions.
+3. Executive Support Systems: The CEO needs reports about the market trends, competitor price graphs, monthly profits and long-term forecasts.
+4. Knowlegde Work Systems and Office Automation System: For the Knowledge Work System the Computer Aided Design System is needed for the store design for creating new product strategies. Office Automation System will use applications such as Microsoft teams for meetings and Microsoft outlook for emails, Microsoft word for documents and Excel for admin work.
 
 # IT Landscape and Legacy Systems
 
